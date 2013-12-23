@@ -23,6 +23,11 @@ body {
 	/*font-size: 2.5em;*/
 	font-family:Arial, Helvetica, sans-serif;
 	font-weight:lighter;
+	color: #303030;
+}
+
+#content {
+	background-color: rgba(255, 255, 255, 0.20);
 }
 
 #header {	
@@ -63,13 +68,13 @@ body {
 #pageContent {
  /*	padding: 50px 75px 0px 75px; */
 	padding: 5% 5% 0% 5%;
-	font-size: 1.25em;
+	font-size: 1.15em;
 	text-align: justify;
 }
 
 #general {
 	padding: 1% 7.5% 0% 7.5%;
-	font-size: 1.10em;
+	font-size: 1.05em;
 	text-align: justify;
 	font-family:Arial, Helvetica, sans-serif;
 	font-weight: 50%;
@@ -87,12 +92,13 @@ body {
 }
 
 #descr {
+	/*font-size: 1.0em;*/
 	vertical-align: top;
 	width: 35%;
 	padding-left: 5%;
 /*	padding: 25px 0px 25px 200px;*/
 	display: inline-block;
-	text-align: center:
+	font-size: 1.05em;
 }
 /* End Video Content */
 
@@ -112,10 +118,16 @@ body {
 
 
 /* Link Settings */
-a:link {color: #FFF; text-decoration:none;} /* unvisited link */
-a:visited {color: #FFF;} /* visited link */
-a:hover {color:#b8e7ff;} /* mouse over link */
 
+/* navigation links */
+a.nav:link {color: #FFF; text-decoration: none;} /* unvisited link */
+a.nav:visited {color: #FFF;} /* visited link */
+a.nav:hover {color: #b8e7ff;} /* mouse over link */
+
+/* text contents links */
+a.gen:link {color: #000; text-decoration: underline; font-style: oblique;}
+a.gen:visited {color: #000; text-decoration: underline; font-style: oblique;}
+a.gen:hover {color: #1f5c99;}
 
 /* Font Settings */
 @font-face {
