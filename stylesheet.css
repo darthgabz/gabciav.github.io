@@ -21,8 +21,7 @@ body {
 	background-color: rgba(255, 255, 255, 0.85);
 	font-size: 1.2em;
 	/*font-size: 2.5em;*/
-	font-family:Arial, Helvetica, sans-serif;
-	font-weight:lighter;
+	font-family: 'Raleway', sans-serif;
 	color: #303030;
 }
 
@@ -32,29 +31,27 @@ body {
 
 #header {	
 	/* starting at top, clockwise */
-	/*padding: 25px 75px 50px 75px;	*/
-	padding: 1.5% 2.0% 1.5% 5.0%;
+	padding: 1.5% 3.9% 1.5% 4%;
 	
 	background-color: rgba(0, 0, 0, 0.55);
-	
+	font-family: "Muli", sans-serif;
 	font-size: 2.15em;
-	font-family: Arial, Helvetica, sans-serif;;
 	color: #b8e7ff;
 }
 
 /* Navigation Bar */
 #nav {
-	padding: 1.25% 3.5% 1.5% 3.5%;
+	padding: 1.10% 3.5% 1.6% 4.0%;
 	background-color: rgba(0, 0, 0, 0.35);
 	
-	font-size: 1.75em;
-	font-family: Raleway;
+	font-size: 1.65em;
+	font-weight: 200;
 	color: #FFF;
 }
 
 #pageLink {
-	padding-right: 2.25em;
-	padding-left: 0.5em;
+	padding-right: 2.30em;
+	padding-left: 0.75em;
 	text-align: center;
 }
 
@@ -66,17 +63,16 @@ body {
 
 /* General Content */
 #pageContent {
- /*	padding: 50px 75px 0px 75px; */
-	padding: 5% 5% 0% 5%;
+	padding: 3.5% 6.5% 0% 6.5%;
 	font-size: 1.15em;
+	font-weight:400;
 	text-align: justify;
 }
 
 #general {
-	padding: 1% 7.5% 0% 7.5%;
+	padding: 1% 6.5% 0% 9%;
 	font-size: 1.05em;
 	text-align: justify;
-	font-family:Arial, Helvetica, sans-serif;
 	font-weight: 50%;
 }
 
