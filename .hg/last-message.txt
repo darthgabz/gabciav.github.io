@@ -1,1 +1,3 @@
-initial commit
+changed to self-hosted fonts
+font kits added to style sheet
+link to google fonts removed in index
