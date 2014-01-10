@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Digital Art"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+	backgroundColor="rgba(34,34,34,0.35)"
+	showOpenButton="true"
+	indexPageName="digGal.html"
+
+>
+  <image imageURL="images/tutu_01.jpg"
+	thumbURL="thumbs/tutu_01.jpg"
+	linkURL="images/tutu_01.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\old\portfolio_updated2\images\digital\tutu_01.png">
+    <title><![CDATA[Texturing Assignment, Fall 2011]]></title>
+    <caption><![CDATA[Full View]]></caption>
+  </image>
+  <image imageURL="images/tutu_02.jpg"
+	thumbURL="thumbs/tutu_02.jpg"
+	linkURL="images/tutu_02.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\old\portfolio_updated2\images\digital\tutu_02.png">
+    <title><![CDATA[Texturing Assignment, Fall 2011]]></title>
+    <caption><![CDATA[Front Detail]]></caption>
+  </image>
+  <image imageURL="images/tutu_03.jpg"
+	thumbURL="thumbs/tutu_03.jpg"
+	linkURL="images/tutu_03.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\old\portfolio_updated2\images\digital\tutu_03.png">
+    <title><![CDATA[Texturing Assignment, Fall 2011]]></title>
+    <caption><![CDATA[Top Detail]]></caption>
+  </image>
+  <image imageURL="images/dust1.jpeg"
+	thumbURL="thumbs/dust1.jpeg"
+	linkURL="images/dust1.jpeg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\old\portfolio_updated2\images\digital\dust1.jpeg">
+    <title><![CDATA[Lighting Assignment, Fall 2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bug_production.jpeg"
+	thumbURL="thumbs/bug_production.jpeg"
+	linkURL="images/bug_production.jpeg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\old\portfolio_updated2\images\digital\bug_production.jpeg">
+    <title><![CDATA[Lighting Assignment, Fall 2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sabre_full.png"
+	thumbURL="thumbs/sabre_full.jpg"
+	linkURL="images/sabre_full.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\old\portfolio_updated2\images\digital\sabre_full.png">
+    <title><![CDATA[Modeling Assignment, Fall 2011]]></title>
+    <caption><![CDATA[Front View]]></caption>
+  </image>
+  <image imageURL="images/sabre_right.png"
+	thumbURL="thumbs/sabre_right.jpg"
+	linkURL="images/sabre_right.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\old\portfolio_updated2\images\digital\sabre_right.png">
+    <title><![CDATA[Modeling Assignment, Fall 2011]]></title>
+    <caption><![CDATA[Snake Detail]]></caption>
+  </image>
+  <image imageURL="images/sabre_left.png"
+	thumbURL="thumbs/sabre_left.jpg"
+	linkURL="images/sabre_left.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\old\portfolio_updated2\images\digital\sabre_left.png">
+    <title><![CDATA[Modeling Assignment, Fall 2011]]></title>
+    <caption><![CDATA[Handle Detail]]></caption>
+  </image>
+  <image imageURL="images/clock_front.png"
+	thumbURL="thumbs/clock_front.jpg"
+	linkURL="images/clock_front.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\old\portfolio_updated2\images\digital\clock_front.png">
+    <title><![CDATA[Modeling Assignment, Fall 2011]]></title>
+    <caption><![CDATA[Front View]]></caption>
+  </image>
+  <image imageURL="images/clock_back.png"
+	thumbURL="thumbs/clock_back.jpg"
+	linkURL="images/clock_back.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\old\portfolio_updated2\images\digital\clock_back.png">
+    <title><![CDATA[Modeling Assignment, Fall 2011]]></title>
+    <caption><![CDATA[Back View]]></caption>
+  </image>
+  <image imageURL="images/50 min.png"
+	thumbURL="thumbs/50 min.jpg"
+	linkURL="images/50 min.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\50 min.png">
+    <title><![CDATA[50 Minute Study]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/standing.jpg"
+	thumbURL="thumbs/standing.jpg"
+	linkURL="images/standing.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\standing.jpg">
+    <title><![CDATA[20 Minute Study]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/20_minutes.jpg"
+	thumbURL="thumbs/20_minutes.jpg"
+	linkURL="images/20_minutes.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\20_minutes.jpg">
+    <title><![CDATA[20 Minute Studies]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/10_minutes.jpg"
+	thumbURL="thumbs/10_minutes.jpg"
+	linkURL="images/10_minutes.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\10_minutes.jpg">
+    <title><![CDATA[10 Minute Studies]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/more_5s.jpg"
+	thumbURL="thumbs/more_5s.jpg"
+	linkURL="images/more_5s.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\more_5s.jpg">
+    <title><![CDATA[5 Minute Studies]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/5_minutes.jpg"
+	thumbURL="thumbs/5_minutes.jpg"
+	linkURL="images/5_minutes.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\5_minutes.jpg">
+    <title><![CDATA[5 Minute Studies]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/paul.jpg"
+	thumbURL="thumbs/paul.jpg"
+	linkURL="images/paul.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\paul.jpg">
+    <title><![CDATA[50 Minute Study]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/sara.jpg"
+	thumbURL="thumbs/sara.jpg"
+	linkURL="images/sara.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\sara.jpg">
+    <title><![CDATA[50 Minute Study]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/skulls.png"
+	thumbURL="thumbs/skulls.jpg"
+	linkURL="images/skulls.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\skulls.png">
+    <title><![CDATA[Skull Studies]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/neck.jpg"
+	thumbURL="thumbs/neck.jpg"
+	linkURL="images/neck.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\neck.jpg">
+    <title><![CDATA[Neck Study]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/neck_2.jpg"
+	thumbURL="thumbs/neck_2.jpg"
+	linkURL="images/neck_2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\neck_2.jpg">
+    <title><![CDATA[Neck Study]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/arm.png"
+	thumbURL="thumbs/arm.jpg"
+	linkURL="images/arm.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\arm.png">
+    <title><![CDATA[Arm Study]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/knees.png"
+	thumbURL="thumbs/knees.jpg"
+	linkURL="images/knees.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\knees.png">
+    <title><![CDATA[Knee Studies]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/shoulderblades.png"
+	thumbURL="thumbs/shoulderblades.jpg"
+	linkURL="images/shoulderblades.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\shoulderblades.png">
+    <title><![CDATA[Shoulder Study]]></title>
+    <caption><![CDATA[Life Drawing, Spring 2012]]></caption>
+  </image>
+  <image imageURL="images/basic_drawing_final.png"
+	thumbURL="thumbs/basic_drawing_final.jpg"
+	linkURL="images/basic_drawing_final.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\fineArt\images\basic_drawing_final.png">
+    <title><![CDATA[Final Project]]></title>
+    <caption><![CDATA[Basic Drawing, Fall 2010]]></caption>
+  </image>
+</juiceboxgallery>

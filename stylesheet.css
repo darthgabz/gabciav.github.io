@@ -123,15 +123,14 @@ a.nav:visited {color: #FFF;} /* visited link */
 a.nav:hover {color: #b8e7ff;} /* mouse over link */
 
 /* text contents links */
-a.gen:link {color: #000; text-decoration: underline; font-style: oblique;}
-a.gen:visited {color: #000; text-decoration: underline; font-style: oblique;}
+a.gen:link {color: #000; text-decoration: underline;}
+a.gen:visited {color: #000; text-decoration: underline;}
 a.gen:hover {color: #1f5c99;}
 
 
 /* Font Settings */
 
 html, html a {
-    
     -webkit-text-stroke: 1px rgba(0,0,0,0.1);
     text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
 }
