@@ -4,7 +4,7 @@
 /* Setup */
 body {
 	background-image: url(images/background.png);
-	background-size: 30%;
+	background-size: 25%;
 	
 	font-size: 100%;
 	margin: 0 auto;
@@ -15,11 +15,11 @@ body {
 #mainContainer {
 	height: auto;
 	/* width: 70%; */
-	margin-left: 15%;
-	margin-right: 15%;
+	margin-left: 16.75%;
+	margin-right: 16.75%;
 		
 	background-color: rgba(255, 255, 255, 0.85);
-	font-size: 1.2em;
+	font-size: 1.0em;
 	/*font-size: 2.5em;*/
 	font-family: "ralewaylight", sans-serif;
 	/*color: #303030;*/
@@ -32,33 +32,33 @@ body {
 
 #header {	
 	/* starting at top, clockwise */
-	padding: 1.5% 3.9% 1.5% 4%;
+	padding: 1.5% 3.9% 1.5% 4.75%;
 	
 	background-color: rgba(0, 0, 0, 0.55);
 	font-family: "muliregular", sans-serif;
-	font-size: 2.15em;
-	color: #b8e7ff;
+	font-size: 2.25em;
 }
 
 /* Navigation Bar */
 #nav {
-	padding: 1.10% 4.0% 1.6% 4.0%;
+	padding: 1.10% 3.9% 1.6% 4.0%;
 	background-color: rgba(0, 0, 0, 0.35);
 	
 	font-family: 'ralewayextralight', sans-serif;
-	font-size: 1.65em;
+	font-size: 1.75em;
 	/*font-weight: 200;*/
 	color: #FFF;
 }
 
 #pageLink {
-	padding-right: 2.35em;
+	padding-right: 2.9em;
 	padding-left: 0.75em;
 	text-align: center;
 }
 
 #lastLink {
 	text-align: center;
+	padding-right:0;
 }
 /* End Navigation Bar */
 
@@ -73,7 +73,7 @@ body {
 
 #general {
 	padding: 1% 6.5% 0% 9%;
-	font-size: 1.05em;
+	font-size: 1.10em;
 	text-align: justify;
 	/*font-weight: 50%*/
 }
@@ -93,7 +93,7 @@ body {
 	/*font-size: 1.0em;*/
 	vertical-align: top;
 	width: 35%;
-	padding-left: 5%;
+	padding-left: 7.5%;
 /*	padding: 25px 0px 25px 200px;*/
 	display: inline-block;
 	font-size: 1.05em;
@@ -116,6 +116,10 @@ body {
 
 
 /* Link Settings */
+
+/* header link */
+a.head:link {color: #b8e7ff; text-decoration: none;}
+a.head:visited {color: #b8e7ff;}
 
 /* navigation links */
 a.nav:link {color: #FFF; text-decoration: none;} /* unvisited link */
