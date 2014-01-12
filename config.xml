@@ -10,6 +10,22 @@
 	indexPageName="digGal.html"
 
 >
+  <image imageURL="images/pennyFront.png"
+	thumbURL="thumbs/pennyFront.jpg"
+	linkURL="images/pennyFront.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\digitalArt\images\pennyFront.png">
+    <title><![CDATA[Penny (front view)]]></title>
+    <caption><![CDATA[Property of MTECH Studios, render by Pete Steffan]]></caption>
+  </image>
+  <image imageURL="images/pennyBack.png"
+	thumbURL="thumbs/pennyBack.jpg"
+	linkURL="images/pennyBack.png"
+	linkTarget="_blank"
+	sourcePath="C:\Users\gabyciav\Documents\Portfolio\galleries\digitalArt\images\pennyBack.png">
+    <title><![CDATA[Penny (back view)]]></title>
+    <caption><![CDATA[Property of MTECH Studios, render by Pete Steffan]]></caption>
+  </image>
   <image imageURL="images/tutu_01.jpg"
 	thumbURL="thumbs/tutu_01.jpg"
 	linkURL="images/tutu_01.jpg"
