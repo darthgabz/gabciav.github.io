@@ -4,9 +4,7 @@
 /* Setup */
 body {
 	background-image: url(images/background.png);
-	background-size: 25%;
-	
-	font-size: 100%;
+	background-size: 360px;
 	margin: 0 auto;
 	position: relative;
 }
@@ -14,15 +12,15 @@ body {
 /* Main Bin */
 #mainContainer {
 	height: auto;
-	/* width: 70%; */
-	margin-left: 16.75%;
-	margin-right: 16.75%;
-		
+	width: 100%;
+	max-width: 960px;
+
+	margin-right: auto;
+	margin-left: auto;
+
 	background-color: rgba(255, 255, 255, 0.85);
 	font-size: 1.0em;
-	/*font-size: 2.5em;*/
 	font-family: "ralewaylight", sans-serif;
-	/*color: #303030;*/
 	color: #202020;
 }
 
@@ -30,44 +28,95 @@ body {
 	background-color: rgba(255, 255, 255, 0.20);
 }
 
-#header {	
-	/* starting at top, clockwise */
-	padding: 1.5% 3.9% 1.5% 4.75%;
-	
-	background-color: rgba(0, 0, 0, 0.55);
-	font-family: "muliregular", sans-serif;
-	font-size: 2.25em;
-}
-
 /* Navigation Bar */
 #nav {
-	padding: 1.10% 3.9% 1.6% 4.0%;
-	background-color: rgba(0, 0, 0, 0.35);
+	display: table;
+	width: 100%;
 	
+	padding-top: 1.10%;
+	padding-bottom: 1.6%;
+	margin: auto;
+
+	background-color: rgba(0, 0, 0, 0.35);
+	text-align: left;
 	font-family: 'ralewayextralight', sans-serif;
 	font-size: 1.75em;
-	/*font-weight: 200;*/
 	color: #FFF;
 }
 
-#pageLink {
-	padding-right: 2.9em;
-	padding-left: 0.75em;
-	text-align: center;
+/* Whole screen */
+@media screen and (min-width: 960px) {
+
+	#header {	
+		/* starting at top, clockwise */
+		padding: 1.5% 3.9% 1.5% 4.75%;
+		
+		background-color: rgba(0, 0, 0, 0.55);
+		font-family: "muliregular", sans-serif;
+		font-size: 2.25em;
+	}
+
+	#title {
+		font-size: 0.75em; 
+		display: inline-block; 
+		padding-left: 28%; 
+		text-align: right;
+	}
+
+	#pageLink {
+		float: none;
+		width: auto;
+		max-width: 17.5%;
+		padding-right: 3.5%;
+		padding-left: 6.5%;
+		margin-right: auto;
+		display: inline-block;
+		text-align: left;
+	}
 }
 
-#lastLink {
-	text-align: center;
-	padding-right:0;
+/* Less than max contianer width screen */
+@media screen and (max-width: 960px){
+
+	#header {
+		padding: 1.5% 0% 1.5% 2.5%;
+		background-color: rgba(0, 0, 0, 0.55);
+		font-family: "muliregular", sans-serif;
+		font-size: 2.25em;
+	}
+
+	#title {
+		display: block;
+		width: auto;
+		font-size: 0.75em;
+		margin-top: 1.25%;
+		margin-left: 3.5%;
+		padding: 0% 3.5% 0% 0;
+		text-align: right;
+		float: right;
+	}
+
+	#pageLink {
+		display: table-cell;
+		width: 20%;
+
+		margin-left: auto;
+		margin-right: auto;
+		float: left;
+
+		white-space: nowrap;
+		text-align: center;		
+	}
+
 }
-/* End Navigation Bar */
+/* End Navigation Bar 
 
 
 /* General Content */
 #pageContent {
 	padding: 3.5% 6.5% 0% 6.5%;
 	font-size: 1.15em;
-/*	font-weight:400;*/
+	font-weight:400;
 	text-align: justify;
 }
 
@@ -75,7 +124,6 @@ body {
 	padding: 1% 6.5% 0% 9%;
 	font-size: 1.10em;
 	text-align: justify;
-	/*font-weight: 50%*/
 }
 
 /* Video Content */
@@ -90,11 +138,9 @@ body {
 }
 
 #descr {
-	/*font-size: 1.0em;*/
 	vertical-align: top;
 	width: 35%;
 	padding-left: 7.5%;
-/*	padding: 25px 0px 25px 200px;*/
 	display: inline-block;
 	font-size: 1.05em;
 }
@@ -109,7 +155,6 @@ body {
 
 #footer {
 	height: auto;
-/*	padding: 100px 75px 30px 75px; */
 	padding: 5% 7.5% 3% 7.5%;
 	text-align: center;
 }
@@ -119,7 +164,8 @@ body {
 
 /* header link */
 a.head:link {color: #b8e7ff; text-decoration: none;}
-a.head:visited {color: #b8e7ff;}
+a.head:visited {color: #b8e7ff; text-decoration: none;}
+a.head:hover {color: #b8e7ff;}
 
 /* navigation links */
 a.nav:link {color: #FFF; text-decoration: none;} /* unvisited link */
