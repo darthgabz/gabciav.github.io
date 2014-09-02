@@ -1,1 +1,1 @@
-added art page with gallery
+content update. added sims page for dynamics and upcoming crowds material. graphics page will now be absorbed into code. updated code content/descriptions. some stylistic changes (in progress).
